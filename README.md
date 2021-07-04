@@ -4,7 +4,7 @@
 - 🧠 I am currently learning everything
 - 📫 How to reach me: [LinkedIn][linkedin] or say 👋 on [Gmail](mailto:artem.sakovich2001@gmail.com)
 
-#### 🔗 Connet with me:
+#### 🔗 Connect with me:
 
 [<img align="left" alt="vibhorchaudhary | LinkedIn" width="22px" height="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 [<img align="left" alt="vibhorchaudhary | Gmail" width="22px" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" />][gmail]
